@@ -54,7 +54,7 @@ public class WWXML
 
         docBuilderFactory.setNamespaceAware(isNamespaceAware);
 
-        if (Configuration.getJavaVersion() >= 1.6)
+        /*if (Configuration.getJavaVersion() >= 1.6)
         {
             try
             {
@@ -66,7 +66,7 @@ public class WWXML
                 String message = Logging.getMessage("XML.NonvalidatingNotSupported");
                 Logging.logger().finest(message);
             }
-        }
+        }*/
 
         try
         {

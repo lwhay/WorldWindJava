@@ -69,6 +69,8 @@
                 <pathelement location="gluegen-rt.jar"/>
                 <pathelement location="gdal.jar"/>
                 <pathelement location="plugin.jar"/>
+                <pathelement location="httpclient-4.5.2.jar"/>
+                <pathelement location="json-20090211.jar"/>
             </classpath>
             <compilerarg value="-Xlint:unchecked"/>
             <compilerarg value="-Xlint:-options"/>
@@ -97,6 +99,8 @@
                 <pathelement location="gluegen-rt.jar"/>
                 <pathelement location="gdal.jar"/>
                 <pathelement location="plugin.jar"/>
+                <pathelement location="httpclient-4.5.2.jar"/>
+                <pathelement location="json-20090211.jar"/>
             </classpath>
             <link href="http://download.oracle.com/javase/6/docs/api/"/>
             <link href="http://jogamp.org/deployment/v2.1.5/javadoc/jogl/javadoc/"/>

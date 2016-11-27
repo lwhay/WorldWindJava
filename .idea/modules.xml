@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WorldWind.iml" filepath="$PROJECT_DIR$/WorldWind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorldWindJava.iml" filepath="$PROJECT_DIR$/WorldWindJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/util/util.iml" filepath="$PROJECT_DIR$/build/util/util.iml" />
     </modules>
   </component>
 </project>
-

@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="WorldWindJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gdal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/worldwind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vpf-symbols.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-20090211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/asterix-common-0.8.9-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
